@@ -1,3 +1,8 @@
+---
+title: "My First blog using YAML and Jeykll"
+date: 2021-10-17
+---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris rutrum ex elit, maximus porta est venenatis ac. Fusce semper, lectus ut ornare aliquam, tortor mi interdum urna, at varius massa mauris at odio. Etiam maximus convallis nibh id faucibus. Sed vel nunc at nisl egestas tincidunt. Quisque vitae elementum magna. Praesent facilisis fermentum luctus. Mauris nunc nulla, scelerisque id commodo eu, maximus id sem. Ut pulvinar maximus luctus. Fusce condimentum pharetra libero vitae iaculis.
 
 Suspendisse at libero condimentum est egestas malesuada. Maecenas facilisis nibh odio, non dictum magna tincidunt ac. Sed ac rutrum erat. Aliquam erat volutpat. Praesent finibus mauris vitae dapibus bibendum. Ut eros elit, varius vel ultrices quis, luctus ac ligula. Phasellus pretium placerat nulla non maximus. Proin condimentum nibh nec nibh auctor, sed venenatis enim condimentum. Morbi pulvinar ornare nisl tempor sagittis. Maecenas ultricies enim sed arcu facilisis, in tempus arcu feugiat. Donec at nibh et orci lobortis accumsan. Praesent vulputate eget nulla vel laoreet. Morbi cursus pellentesque lacus auctor feugiat. Proin in orci libero.
